@@ -122,19 +122,35 @@ body{
     text-align: center;
 }
 .Div-Comp-1{
+    display: flex;
     background-color: #7389FF;
     margin-right: 5vh;
     width: 50%;
     text-align: center;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#Icon-html{
+    margin-top: 2vh;
+    width: 10%;
 }
 .Texte-Comp-1{
     font-size: x-large;
 }
 .Div-Comp-2{
+    display: flex;
     background-color: #7389FF;
     margin-left: 5vh;
     width: 50%;
     text-align: center;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#Icon-css{
+    margin-top: 2vh;
+    width: 10%;
 }
 .Texte-Comp-2{
     font-size: x-large;
@@ -149,19 +165,36 @@ body{
     text-align: center;
 }
 .Div-Comp-3{
+    display: flex;
     background-color: #7389FF;
     margin-right: 5vh;
     width: 50%;
     text-align: center;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#Icon-JS{
+    margin-top: 2vh;
+    width: 10%;
 }
 .Texte-Comp-3{
     font-size: x-large;
 }
 .Div-Comp-4{
+    display: flex;
     background-color: #7389FF;
     margin-left: 5vh;
     width: 50%;
     text-align: center;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#Icon-php{
+    margin-top: 3vh;
+    margin-bottom: 2vh;
+    width: 10%;
 }
 .Texte-Comp-4{
     font-size: x-large;
